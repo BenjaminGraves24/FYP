@@ -2,7 +2,6 @@
 Green Hydrogen,source
 Blue Hydrogen,source
 Pink Hydrogen,source
-Hydrogen,source
 Road Transport,use
 Residential,use
 Commercial,use
@@ -23,4 +22,4 @@ Transportation,use
 Power,use
 Heating,use
 Excess,excess
-Shortfall,shortfall
+ShortFall,source

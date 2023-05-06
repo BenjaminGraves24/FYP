@@ -1,20 +1,20 @@
-﻿source,target,type,value,
-Blue Hydrogen,Hydrogen_Generation,Blue Hydrogen,0.032661643,
-Green Hydrogen,Hydrogen_Generation,Green Hydrogen,2.763068049,
-Pink Hydrogen,Hydrogen_Generation,Pink Hydrogen,0,
-Hydrogen_Generation,Road Transport,Hydrogen,0.311102554,
-Hydrogen_Generation,Residential,Hydrogen,0,
-Hydrogen_Generation,Commercial,Hydrogen,0.198609429,
-Hydrogen_Generation,Industrial,Hydrogen,1.374879345,
-Hydrogen_Generation,Power Generation,Hydrogen,0.4,
-Hydrogen_Generation,Rail,Hydrogen,0,
-Hydrogen_Generation,Shipping,Hydrogen,0.5,
-Hydrogen_Generation,Blending,Hydrogen,0,
-Hydrogen_Generation,Direct Air Carbon Capture and Storage,Hydrogen,0,
-Hydrogen_Generation,Transmission Losses,Hydrogen,0.011138365,
-Hydrogen_Generation,Natural Gas,Hydrogen,0.044256526,
-Hydrogen_Generation,Bioresources,Hydrogen,0,
-Hydrogen_Generation,Nuclear,Hydrogen,0,
-Hydrogen_Generation,Networked Electricity,Hydrogen,3.277681586,
-Hydrogen_Generation,Non Networked Electricity,Hydrogen,0,
-Hydrogen_Generation,ShortFall,Hydrogen,3.321938112,3.321938112
+﻿source,target,type,value
+Blue Hydrogen,Hydrogen_Generation,Blue Hydrogen,0.032661643
+Green Hydrogen,Hydrogen_Generation,Green Hydrogen,2.763068049
+Pink Hydrogen,Hydrogen_Generation,Pink Hydrogen,0
+Hydrogen_Generation,Road Transport,Hydrogen,0.311102554
+Hydrogen_Generation,Residential,Hydrogen,0
+Hydrogen_Generation,Commercial,Hydrogen,0.198609429
+Hydrogen_Generation,Industrial,Hydrogen,1.374879345
+Hydrogen_Generation,Power Generation,Hydrogen,0.4
+Hydrogen_Generation,Rail,Hydrogen,0
+Hydrogen_Generation,Shipping,Hydrogen,0.5
+Hydrogen_Generation,Blending,Hydrogen,0
+Hydrogen_Generation,Direct Air Carbon Capture and Storage,Hydrogen,0
+Hydrogen_Generation,Transmission Losses,Hydrogen,0.011138365
+Hydrogen_Generation,Natural Gas,Hydrogen,0.044256526
+Hydrogen_Generation,Bioresources,Hydrogen,0
+Hydrogen_Generation,Nuclear,Hydrogen,0
+Hydrogen_Generation,Networked Electricity,Hydrogen,3.277681586
+Hydrogen_Generation,Non Networked Electricity,Hydrogen,0
+ShortFall,Hydrogen_Generation,ShortFall,3.321938112

@@ -2,19 +2,8 @@
 Blue Hydrogen,Hydrogen_Generation,Blue Hydrogen,0.075325506
 Green Hydrogen,Hydrogen_Generation,Green Hydrogen,2
 Pink Hydrogen,Hydrogen_Generation,Pink Hydrogen,0.39
-Hydrogen_Generation,Road Transport,Hydrogen,
-Hydrogen_Generation,Residential,Hydrogen,
-Hydrogen_Generation,Commercial,Hydrogen,
-Hydrogen_Generation,Industrial,Hydrogen,
-Hydrogen_Generation,Power Generation,Hydrogen,
-Hydrogen_Generation,Rail,Hydrogen,
-Hydrogen_Generation,Shipping,Hydrogen,
-Hydrogen_Generation,Blending,Hydrogen,
-Hydrogen_Generation,Direct Air Carbon Capture and Storage,Hydrogen,
-Hydrogen_Generation,Transmission Losses,Hydrogen,
-Hydrogen_Generation,Natural Gas,Hydrogen,
-Hydrogen_Generation,Bioresources,Hydrogen,
-Hydrogen_Generation,Nuclear,Hydrogen,
-Hydrogen_Generation,Networked Electricity,Hydrogen,
-Hydrogen_Generation,Non Networked Electricity,Hydrogen,
-Hydrogen_Generation,ShortFall,Hydrogen,
+Hydrogen_Generation,Road Transport,Hydrogen,0.547166928
+Hydrogen_Generation,Commercial,Hydrogen,0.21
+Hydrogen_Generation,Industrial,Hydrogen,0.48
+Hydrogen_Generation,Heating,Hydrogen,0
+Hydrogen_Generation,Excess,Hydrogen,1.228158578
