@@ -1,0 +1,20 @@
+﻿source,target,type,value
+Blue Hydrogen,Hydrogen_Generation,Blue Hydrogen,24.73069831
+Green Hydrogen,Hydrogen_Generation,Green Hydrogen,10.71248085
+Pink Hydrogen,Hydrogen_Generation,Pink Hydrogen,1
+Hydrogen_Generation,Road Transport,Hydrogen,0.940600024
+Hydrogen_Generation,Residential,Hydrogen,0
+Hydrogen_Generation,Commercial,Hydrogen,1.614823513
+Hydrogen_Generation,Industrial,Hydrogen,7.739818119
+Hydrogen_Generation,Power Generation,Hydrogen,2.9
+Hydrogen_Generation,Rail,Hydrogen,0.520554808
+Hydrogen_Generation,Shipping,Hydrogen,0.5
+Hydrogen_Generation,Blending,Hydrogen,22.08219074
+Hydrogen_Generation,Direct Air Carbon Capture and Storage,Hydrogen,0
+Hydrogen_Generation,Transmission Losses,Hydrogen,0.145191949
+Hydrogen_Generation,Natural Gas,Hydrogen,30.15908658
+Hydrogen_Generation,Bioresources,Hydrogen,1.377241967
+Hydrogen_Generation,Nuclear,Hydrogen,1.186247145
+Hydrogen_Generation,Networked Electricity,Hydrogen,10.96034498
+Hydrogen_Generation,Non Networked Electricity,Hydrogen,1.267755931
+Hydrogen_Generation,ShortFall,Hydrogen,44.9506766
