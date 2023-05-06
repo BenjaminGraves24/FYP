@@ -1,0 +1,7 @@
+﻿source,target,type,value
+Blue Hydrogen,Hydrogen_Generation,Blue Hydrogen,10
+Green Hydrogen,Hydrogen_Generation,Green Hydrogen,10
+Hydrogen_Generation,Consumption,Blue Hydrogen,8
+Hydrogen_Generation,Consumption,Green Hydrogen,6
+Hydrogen_Generation,Excess,Blue Hydrogen,2
+Hydrogen_Generation,Excess,Green Hydrogen,4

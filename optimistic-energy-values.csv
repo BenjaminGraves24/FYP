@@ -1,0 +1,13 @@
+﻿source,target,type,value,Blue Demand,105.1
+Blue Hydrogen,Hydrogen_Generation,Blue Hydrogen,122.6,Green Demand,41.8
+Green Hydrogen,Hydrogen_Generation,Green Hydrogen,78,Blue Prod,122.6
+Hydrogen_Generation,Industry,Blue Hydrogen,45.4,Green Prod,78
+Hydrogen_Generation,Industry,Green Hydrogen,19.3,Green Diff,36.2
+Hydrogen_Generation,Transportation,Blue Hydrogen,2.9,Blue Diff,17.5
+Hydrogen_Generation,Transportation,Green Hydrogen,9.2,,
+Hydrogen_Generation,Power,Blue Hydrogen,35.4,,
+Hydrogen_Generation,Power,Green Hydrogen,6.2,,
+Hydrogen_Generation,Heating,Blue Hydrogen,21.4,,
+Hydrogen_Generation,Heating,Green Hydrogen,7.1,,
+Hydrogen_Generation,Excess,Blue Hydrogen,36.2,,
+Hydrogen_Generation,Excess,Green Hydrogen,17.5,,
