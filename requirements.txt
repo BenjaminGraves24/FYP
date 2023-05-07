@@ -1,4 +1,3 @@
 floweaver
 ipywidgets
 ipysankeywidget==0.4.2
-jupyter-sankey-widget
