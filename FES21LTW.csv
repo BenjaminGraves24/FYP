@@ -2,8 +2,8 @@
 Blue Hydrogen,Hydrogen_Generation,Blue Hydrogen,0
 Green Hydrogen,Hydrogen_Generation,Green Hydrogen,12.4875
 Pink Hydrogen,Hydrogen_Generation,Pink Hydrogen,0
-Hydrogen_Generation,Road Transport,Hydrogen,0.819893977
-Hydrogen_Generation,Commercial,Hydrogen,3.52
-Hydrogen_Generation,Industrial,Hydrogen,2.91
-Hydrogen_Generation,Heating,Hydrogen,4.492258
+Hydrogen_Generation,Road Transport,Road Transport,0.819893977
+Hydrogen_Generation,Commercial,Commercial,3.52
+Hydrogen_Generation,Industrial,Industrial,2.91
+Hydrogen_Generation,Heating,Heating,4.492258
 ShortFall,Hydrogen_Generation,ShortFall,0.745348023
