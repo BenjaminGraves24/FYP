@@ -1,0 +1,2 @@
+pip install jupyter-sankey-widget
+jupyter labextension install @jupyter-widgets/jupyterlab-manager jupyter-sankey-widget
