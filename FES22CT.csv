@@ -1,20 +1,15 @@
-﻿source,target,type,value
-Blue Hydrogen,Hydrogen_Generation,Blue Hydrogen,0.032661643
-Green Hydrogen,Hydrogen_Generation,Green Hydrogen,2.763068049
-Pink Hydrogen,Hydrogen_Generation,Pink Hydrogen,0
-Hydrogen_Generation,Road Transport,Road Transport,0.311102554
-Hydrogen_Generation,Residential,Residential,0
-Hydrogen_Generation,Commercial,Commercial,0.198609429
-Hydrogen_Generation,Industrial,Industrial,1.374879345
-Hydrogen_Generation,Power Generation,Power Generation,0.4
-Hydrogen_Generation,Rail,Rail,0
-Hydrogen_Generation,Shipping,Shipping,0.5
-Hydrogen_Generation,Blending,Blending,0
-Hydrogen_Generation,Direct Air Carbon Capture and Storage,Direct Air Carbon Capture and Storage,0
-Hydrogen_Generation,Transmission Losses,Transmission Losses,0.011138365
-Hydrogen_Generation,Natural Gas,Natural Gas,0.044256526
-Hydrogen_Generation,Bioresources,Bioresources,0
-Hydrogen_Generation,Nuclear,Nuclear,0
-Hydrogen_Generation,Networked Electricity,Networked Electricity,3.277681586
-Hydrogen_Generation,Non Networked Electricity,Non Networked Electricity,0
-ShortFall,Hydrogen_Generation,ShortFall,3.321938112
+﻿source,target,type,value,,
+Blue Hydrogen,Hydrogen_Generation,Blue Hydrogen,0.032661643,,
+Green Hydrogen,Hydrogen_Generation,Green Hydrogen,2.763068049,,
+Pink Hydrogen,Hydrogen_Generation,Pink Hydrogen,0,,
+Hydrogen_Generation,Road Transport,Road Transport,0.311102554,,
+Hydrogen_Generation,Residential,Residential,0,,
+Hydrogen_Generation,Commercial,Commercial,0.198609429,,
+Hydrogen_Generation,Industrial,Industrial,1.374879345,,
+Hydrogen_Generation,Power Generation,Power Generation,0.4,,
+Hydrogen_Generation,Rail,Rail,0,,
+Hydrogen_Generation,Shipping,Shipping,0.5,,
+Hydrogen_Generation,Blending,Blending,0,,
+Hydrogen_Generation,Direct Air Carbon Capture and Storage,Direct Air Carbon Capture and Storage,0,,
+Hydrogen_Generation,Transmission Losses,Transmission Losses,0.011138365,,
+,,,,,

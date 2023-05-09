@@ -12,9 +12,3 @@ Hydrogen_Generation,Shipping,Shipping,0.5
 Hydrogen_Generation,Blending,Blending,22.08219074
 Hydrogen_Generation,Direct Air Carbon Capture and Storage,Direct Air Carbon Capture and Storage,0
 Hydrogen_Generation,Transmission Losses,Transmission Losses,0.145191949
-Hydrogen_Generation,Natural Gas,Natural Gas,30.15908658
-Hydrogen_Generation,Bioresources,Bioresources,1.377241967
-Hydrogen_Generation,Nuclear,Nuclear,1.186247145
-Hydrogen_Generation,Networked Electricity,Networked Electricity,10.96034498
-Hydrogen_Generation,Non Networked Electricity,Non Networked Electricity,1.267755931
-ShortFall,Hydrogen_Generation,ShortFall,44.9506766
